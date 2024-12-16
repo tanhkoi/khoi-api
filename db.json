@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "title": "Flutter REST API Example",
+      "body": "This is an example post fetched using Flutter and the http package."
+    },
+    {
+      "id": 2,
+      "title": "FutureBuilder in Flutter",
+      "body": "Using FutureBuilder, you can easily handle asynchronous operations in Flutter."
+    },
+    {
+      "id": 3,
+      "title": "Working with JSON Data",
+      "body": "JSON data can be parsed into Dart objects using the factory constructor."
+    },
+    {
+      "id": 4,
+      "title": "GET API Example",
+      "body": "This example demonstrates how to call a REST API using the GET method in Flutter."
+    }
+  ]
+  
